@@ -1,11 +1,11 @@
-#LinkIt jQuery Plugin#
+<h1>LinkIt jQuery Plugin</h1>
 **LinkIt** is a simple jQuery plugin to attach links to elements
 
-##Version##
+<h1>Version</h1>
 0.2.0
 
 
-##usage##		
+<h1>usage</h1>	
             $('span').linkit({
 
                     href: 'http://abenezer.00webhostapp.com',
@@ -15,10 +15,10 @@
             });
 
 
-##Vendors##
+<h1>Vendors</h1>
 
 jQuery - [http://jquery.com](http://jquery.com)
 
-##License##
+<h1>License</h1>
 
 MIT License
