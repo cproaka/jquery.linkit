@@ -1,0 +1,34 @@
+{
+    "name": "linkit",
+    "title": "jQuery Linkit jQuery plugin",
+    "description": "Simple plugin to convert any elment into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Cproaka",
+        "url": "https://github.com/cproaka/"
+    },
+    "maintainers": [
+        {
+            "name": "cproaka",
+            "email": "youvieweraka@gmail.com",
+            "url": "http://abenezer.000webhostapp.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/cproaka/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    
+    "homepage": "https://github.com/cproaka/jquery.linkit",
+    "docs": "https://github.com/cproaka/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
